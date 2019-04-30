@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs
+/HelloWorld/.vs/HelloWorld/v16/Server/sqlite3
+/HelloWorld/HelloWorld/bin/Debug/netcoreapp2.2
+/HelloWorld/HelloWorld/obj
